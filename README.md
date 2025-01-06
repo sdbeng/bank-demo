@@ -1,2 +1,2 @@
 # bank-demo
-dont have no permission
+Beta project: Bank chatbot
